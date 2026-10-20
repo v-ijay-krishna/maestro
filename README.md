@@ -1,14 +1,10 @@
-# Maestro — Real-Time MIDI Piano Tutor
+# Maestro
 
-Maestro is a full-stack web app for learning piano with a physical MIDI keyboard. It turns live MIDI input into immediate, note-by-note feedback, guided practice sessions, and explainable performance analysis.
+Maestro is a piano-learning web app that works with a physical MIDI keyboard. It provides guided practice, performance tests, and detailed feedback from live MIDI input.
 
 ![Maestro application preview](browser-check.png)
 
-## Why it matters
-
-Most piano-learning apps stop at a score. Maestro captures the details that matter to a musician—missed notes, timing, velocity, and per-bar consistency—then presents actionable feedback instead of a black-box grade.
-
-## Highlights
+## Features
 
 - Connects USB MIDI keyboards through the browser's Web MIDI API for low-latency feedback.
 - Provides Learn mode for guided note-by-note and bar-by-bar practice.
@@ -82,17 +78,6 @@ npm run build
 ```
 
 The MIDI ingestion/time-conversion path has been exercised with a synthetic song containing mid-piece tempo and time-signature changes.
-
-## Resume-ready description
-
-> Built Maestro, a full-stack React/Node.js piano-learning platform that processes live Web MIDI input, ingests tempo-aware MIDI files, and generates explainable performance feedback with an extensible ML-scoring boundary.
-
-## Roadmap
-
-- ML-backed scoring service
-- Teacher dashboard and student roster
-- More repertoire metadata and difficulty levels
-- Native desktop/mobile clients using the existing REST API
 
 ## License
 
