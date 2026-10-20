@@ -1,0 +1,26 @@
+{
+  "open-library/bach-prelude-and-fugue-c-major-bwv-846.mid": {
+    "title": "Prelude and Fugue in C Major, BWV 846",
+    "composer": "Johann Sebastian Bach",
+    "difficulty": "early_intermediate",
+    "genre": "Classical",
+    "description": "A foundational Bach study for broken chords, even tone, and simple voice leading.",
+    "tags": ["maestro-v3", "classical", "arpeggios", "starter"]
+  },
+  "open-library/mozart-sonata-c-major-k330-allegro.mid": {
+    "title": "Sonata in C Major, K. 330: I. Allegro moderato",
+    "composer": "Wolfgang Amadeus Mozart",
+    "difficulty": "intermediate",
+    "genre": "Classical",
+    "description": "A popular Classical-era sonata movement that develops articulation, balance, and fast passagework.",
+    "tags": ["maestro-v3", "classical", "sonata", "popular"]
+  },
+  "open-library/chopin-etude-op10-no1-c-major.mid": {
+    "title": "Etude in C Major, Op. 10 No. 1",
+    "composer": "Frederic Chopin",
+    "difficulty": "expert",
+    "genre": "Romantic",
+    "description": "A virtuosic arpeggio etude for advanced technical practice.",
+    "tags": ["maestro-v3", "romantic", "etude", "arpeggios", "virtuoso"]
+  }
+}

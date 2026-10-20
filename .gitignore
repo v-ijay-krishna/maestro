@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.local
+data/midi/**/*.mid
+data/midi/**/*.midi
+!data/midi/**/.gitkeep
+server/scratch/*.mid
